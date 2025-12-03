@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xxii111
-- 👀 I’m interested in learning-based feature compression and image compression.
+- 👀 I’m interested in learning-based feature compression, image compression and video compression.
 - 📫 How to reach me ... xxii@mail.ustc.edu.cn
 
 <!---
